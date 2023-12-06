@@ -8,8 +8,13 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in economics at the University of Melbourne, Australia and I am on the 2023/2024 academic job market and will be available for interviews.
+**Teaching Assistant** (unimelb)
 
+ECON90003 Macroeconomics (PhD/Master Course), 2019 - 2021
+
+ECON30009 Macroeconomics (Undergraduate Course), 2018 - 2022
+
+ECON30005 Money and Banking (Undergraduate Course), 2017 - 2023
 
 
 
