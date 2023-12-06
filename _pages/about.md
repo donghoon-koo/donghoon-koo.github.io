@@ -14,6 +14,6 @@ I am a Ph.D. candidate in economics at the University of Melbourne, Australia an
 
 **Contact**: donghoonk@unimelbe.du.au
 
-[Curriculum Vitae](https://www.github.com/donghoon-koo/donghoon-koo.github.io/blob/master/files/Donghoon_Koo_CV.pdf)
+[Curriculum Vitae](https://donghoon-koo.github.io/files/Donghoon_Koo_CV.pdf)
 
 
