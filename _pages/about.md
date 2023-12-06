@@ -12,7 +12,7 @@ I am a Ph.D. candidate in economics at the University of Melbourne, Australia an
 
 **Research Interests**: Macroeconomics, Intergenerational transfers, wealth distribution, inequality, housing, population aging.
 
-**Contact**: donghoonk@unimelbe.du.au
+**Contact**: donghoonk@unimelb.edu.au
 
 [Curriculum Vitae](https://donghoon-koo.github.io/files/Donghoon_Koo_CV.pdf)
 
