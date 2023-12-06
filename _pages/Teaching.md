@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-**Teaching Assistant** (unimelb)
+**Teaching Assistant** (at unimelb)
 
-ECON90003 Macroeconomics (PhD/Master Course), 2019 - 2021
+* ECON90003 Macroeconomics (PhD/Master Course), 2019 - 2021
 
-ECON30009 Macroeconomics (Undergraduate Course), 2018 - 2022
+* ECON30009 Macroeconomics (Undergraduate Course), 2018 - 2022
 
-ECON30005 Money and Banking (Undergraduate Course), 2017 - 2023
+* ECON30005 Money and Banking (Undergraduate Course), 2017 - 2023
 
 
 
