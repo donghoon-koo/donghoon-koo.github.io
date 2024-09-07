@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in economics at the University of Melbourne, Australia and I am on the 2023/2024 academic job market and will be available for interviews.
+I am a postdoctoral Research Fellow (Macroeconomics) at the Munich Research Institute for the Economics of Aging and SHARE Analyses in Munich, Germany. 
 
 Please check my latest [job market paper](http://donghoon-koo.github.io/files/Donghoon_Koo_JMP.pdf) and [Curriculum Vitae](https://donghoon-koo.github.io/files/Donghoon_Koo_CV.pdf).
 
@@ -16,7 +16,7 @@ Please check my latest [job market paper](http://donghoon-koo.github.io/files/Do
 
 **Research Interests:** Macroeconomics, Intergenerational transfers, wealth distribution, inequality, housing, population aging.
 
-**Contact:** donghoonk@unimelb.edu.au 
+**Contact:** d.koo@mea-share.eu & donghoonk@unimelb.edu.au 
 
 Please visit my personal [Google site](https://sites.google.com/view/donghoonkoo/), which will be updated more regularly.
 
