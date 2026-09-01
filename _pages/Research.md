@@ -5,13 +5,13 @@ permalink: /Research/
 author_profile: true
 ---
 
-**Job Market Paper**
+**Working Paper**
 
-My job market paper focuses on the impact of intergenerational transfers and the implications of estate tax reforms for wealth concentration.
+My research focuses on the implications of intergenerational transfers for wealth concentration and persistence.
 
-**Title:** [Estate Taxation, Inherited Wealth and Rising Wealth Inequality](http://donghoon-koo.github.io/files/Donghoon_Koo_JMP.pdf)
+**Title:** [Inherited Access: Early Generation-Skipping Transfers and the Persistence of Top Wealth](http://donghoon-koo.github.io/files/GST_paper_Koo_2026.pdf)
 
-**Abstract:** What are the effects of changes in estate taxation on wealth distribution? Has the recent relaxation of estate tax policy contributed to rising wealth inequality in the U.S? To address these questions, I develop a quantitative general equilibrium life-cycle model that incorporates generation-skipping transfers from grandparents. In the model, where return heterogeneity is the main source of wealth inequality, substantial transfers from parents and grandparents help young heirs accumulate wealth faster by securing excess returns, even without drawing high productivity. Calibrated to the U.S. economy, I find that relaxing estate taxes (with a 2 percentage-point decrease in the estate tax rate and a doubling of the exemption threshold from the benchmark) leads to a 1.2 percentage-point increase in the share held by the top 1 percent in the model. I also show that the grandparents-grandchild link (G-G link) is important for wealth accumulation, particularly for those at the top of the distribution. Shutting down the G-G link reduces wealth holdings by the top 5 percent by 1.2 percentage points and, also weakens the distributional effects of estate taxes.
+**Abstract:** The U.S. taxes bequests with two instruments, an estate and a generation-skipping transfer (GST) tax. I build a life-cycle model to study how these transfers sustain top wealth, and how taxes shape that persistence. The model has two distinctive features: high returns require a financial capability that a large early inheritance switches on, and dynasties may transfer directly to grandchildren, a margin the GST tax regulates. The link raises the probability a wealthy grandchild reaches the top 1 percent to 62 percent, barely moving the Gini. The exemption governs persistence, the rate governs concentration, and every relaxation lowers newborn welfare.
 
 
 **Works in progress**
