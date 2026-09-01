@@ -14,7 +14,7 @@ Please check my latest [working paper](http://donghoon-koo.github.io/files/GST_p
 
 **Research Interests:** Macroeconomics, Intergenerational transfers, wealth distribution, inequality, housing, population aging.
 
-**Contact:** d.koo@mea-share.eu & donghoonk@unimelb.edu.au 
+**Contact:** d.koo@mea-share.eu 
 
 Please visit my personal [Google site](https://sites.google.com/view/donghoonkoo/), which will be updated more regularly.
 
