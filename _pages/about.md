@@ -10,9 +10,7 @@ redirect_from:
 
 I am a postdoctoral Research Fellow (Macroeconomics) at the Munich Research Institute for the Economics of Aging and SHARE Analyses in Munich, Germany. 
 
-Please check my latest [job market paper](http://donghoon-koo.github.io/files/Donghoon_Koo_JMP.pdf) and [Curriculum Vitae](https://donghoon-koo.github.io/files/Donghoon_Koo_CV.pdf).
-
-**JMP:** [Estate Taxation, Inherited Wealth and Rising Wealth Inequality](http://donghoon-koo.github.io/files/Donghoon_Koo_JMP.pdf).
+Please check my latest [working paper](http://donghoon-koo.github.io/files/GST_paper_Koo_2026.pdf) and [Curriculum Vitae](https://donghoon-koo.github.io/files/Donghoon_Koo_CV.pdf).
 
 **Research Interests:** Macroeconomics, Intergenerational transfers, wealth distribution, inequality, housing, population aging.
 
